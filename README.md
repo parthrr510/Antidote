@@ -23,9 +23,9 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
   <a href="#ml-models-used">ML Models</a> •
   <a href="#project-scope">Project Scope</a> •
+  <a href="#how-to-use">How To Use</a> •
   <a href="#license">License</a>
 </p>
 
