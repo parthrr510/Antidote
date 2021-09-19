@@ -97,8 +97,39 @@
 
 <div align="justify">
  
-<!-- # 🧐 Project overview -->
- ## License
+## How To Use
+
+To clone and run this application, you’ll need `Git` and `Django` installed on your computer. <br>
+From your command line:
+
+```
+# Clone this repository
+$ git clone https://github.com/Akriti0100/Antidote.git
+
+# Go into the repository
+$ cd Antidote
+
+# Install dependencies
+$ pip3 install -r requirements.txt
+  
+# Run the app
+$ python manage.py runserver
+```
+
+### Login Credentials
+
+* For patient
+  - Email id: akritisinghal1663@gmail.com
+  - Password: akriti1234
+* For doctor
+  - Email id: bomepis203@tst999.com
+  - Password: testuser0102
+
+</div>
+
+<div align="justify">
+ 
+## License
  
 `Antidote` is free and open-source software licensed under the GPL-3.0 License.
 
